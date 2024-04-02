@@ -28,7 +28,7 @@ Hello, my name is Josue Jauregui and I am a student at Tecsup . I am a full-stac
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=3X3L0N&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3X3L0N&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=3X3L0N.3X3L0N)
 
 
 
