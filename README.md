@@ -4,8 +4,8 @@ Hello, my name is Josue Jauregui and I am a student at Tecsup . I am a full-stac
 
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
+- 📫 How to reach me: josuejaureguicamacho@gmail.com
+- ⚡ Fun fact: Checkout my [Lean2Lead Pune]([https://www.linkedin.com/in/lean2lead-pune-bbb92a169](https://www.linkedin.com/in/josue-jauregui-camacho-774051239/)) Community if you are ambitious!
 - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
 
 **Languages and Tools:** 
